@@ -1,4 +1,4 @@
 
-# Food Website Project's
+# SRAMS WEBSITE
 
 ## This is simple frontend project made with HTML, CSS, SASS, & JavaScript.
